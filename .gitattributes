@@ -1,0 +1,2 @@
+wiki_dump.txt filter=lfs diff=lfs merge=lfs -text
+wiki_titles.txt filter=lfs diff=lfs merge=lfs -text
