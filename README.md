@@ -11,12 +11,13 @@ You can find all categories for french Wikipédia here : https://fr.wikipedia.or
 
 #### Selected categories
 
-| Name | N | Link |  
-| Science Politique | 3 | https://fr.wikipedia.org/wiki/Catégorie:Science_politique |  
-| Idéologie Politique | 3 | https://fr.wikipedia.org/wiki/Catégorie:Idéologie_politique |  
-| Politique en France | 3 | https://fr.wikipedia.org/wiki/Catégorie:Politique_en_France |  
-| Politique | 2 | https://fr.wikipedia.org/wiki/Catégorie:Politique |  
-| Société | 2 | https://fr.wikipedia.org/wiki/Catégorie:Société |  
-| Sciences | 2 | https://fr.wikipedia.org/wiki/Catégorie:Science |  
-| Technologies | 2 | https://fr.wikipedia.org/wiki/Catégorie:Techniques_et_sciences_appliquées |  
-| Arts | 2 | https://fr.wikipedia.org/wiki/Catégorie:Art |  
+| Name | N | Link |
+| ------------- |:-------------:|:-----|
+| Science Politique | 3 | https://fr.wikipedia.org/wiki/Catégorie:Science_politique |
+| Idéologie Politique | 3 | https://fr.wikipedia.org/wiki/Catégorie:Idéologie_politique |
+| Politique en France | 3 | https://fr.wikipedia.org/wiki/Catégorie:Politique_en_France |
+| Politique | 2 | https://fr.wikipedia.org/wiki/Catégorie:Politique |
+| Société | 2 | https://fr.wikipedia.org/wiki/Catégorie:Société |
+| Sciences | 2 | https://fr.wikipedia.org/wiki/Catégorie:Science |
+| Technologies | 2 | https://fr.wikipedia.org/wiki/Catégorie:Techniques_et_sciences_appliquées |
+| Arts | 2 | https://fr.wikipedia.org/wiki/Catégorie:Art |
