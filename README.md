@@ -3,6 +3,11 @@
 This dataset contains text extract from french Wikipedia articles.  
 It has been created for the project Overton made by Naowak (Yannis Bendi-Ouis), you can find scrapping script in it.  
 
+140317 articles are in that dump (last update 4th March 2023).  
+It represents 935.832.354 characters encoding in utf-8.  
+Which it's nearly 1GB large.  
+(More or less 1000 books of 300 pages, each pages is 30 lines long and each line has 60 characters)  
+
 ### How was the scrapping made ?
 
 The script start from a link that refer to a category.  
