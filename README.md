@@ -5,10 +5,9 @@ It has been created for the project Overton made by Naowak (Yannis Bendi-Ouis), 
 
 ## Details about the size of the datasets
 
-140317 articles are in that dump (last update 4th March 2023).  
-It represents 935.832.354 characters encoding in utf-8.  
-Which it's nearly 1GB large.  
-(More or less 1000 books of 300 pages, each pages is 30 lines long and each line has 60 characters)  
+98716 articles encoding in utf-8 are in that dump (last update 7th March 2023).
+This dataset is 783.7Mo large.  
+(More or less 800 books of 300 pages, each pages is 30 lines long and each line has 60 characters)  
 
 ## How was the scrapping made ?
 
