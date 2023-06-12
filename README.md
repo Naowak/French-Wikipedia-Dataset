@@ -27,3 +27,7 @@ You can find all categories for french Wikipédia here : https://fr.wikipedia.or
 | Sciences | 2 | https://fr.wikipedia.org/wiki/Catégorie:Science |
 | Technologies | 2 | https://fr.wikipedia.org/wiki/Catégorie:Techniques_et_sciences_appliquées |
 | Arts | 2 | https://fr.wikipedia.org/wiki/Catégorie:Art |
+
+
+## License
+This project is licensed under the MIT License with an Acknowledgment Clause. See LICENSE for more information.
