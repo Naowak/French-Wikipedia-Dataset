@@ -31,3 +31,6 @@ You can find all categories for french Wikipédia here : https://fr.wikipedia.or
 
 ## License
 This project is licensed under the MIT License with an Acknowledgment Clause. See LICENSE for more information.
+
+Scraped by Yannis Bendi-Ouis.
+Website: https://www.naowak.fr/
